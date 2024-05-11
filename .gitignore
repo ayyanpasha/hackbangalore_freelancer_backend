@@ -1,0 +1,74 @@
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Compiled files #
+##################
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Temporary files #
+####################
+*.swp
+*~
+*.log
+*.bak
+*.cache
+
+# Dependency directories #
+###########################
+/node_modules/
+/bower_components/
+/vendor/
+
+# Build directories #
+######################
+/build/
+/dist/
+/out/
+/target/
+
+# IDE files #
+##############
+/.vscode/
+/.idea/
+
+# Environment files #
+#####################
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Miscellaneous #
+##################
+.sass-cache/
+coverage/
+*.log
+npm-debug.log*
+*.log.*
+logs/
+
+# System Files #
+################
+Icon?
+Icon\r
+
+# Package Files #
+#################
+*.tar.gz
+*.zip
+*.rar
+
+# Backup Files #
+################
+*.bak
+*.swp
+*.tmp
+*.DS_Store
+
